@@ -1,0 +1,28 @@
+name: kaptured
+favicon: null
+layout_spectrum: 0.31358870421536267
+typography_spectrum: 0.3222979048732668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4048597167711705
+  lightness: 0.8443195261061192
+  saturation: 0.27311048307456076
+  rhythmicContrast: 0.6247322158887982
+purpose: []
